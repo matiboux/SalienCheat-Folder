@@ -9,14 +9,14 @@ echo 'your_token' > token.txt
 ```
 
 2. Run *update.sh*.  
-This will run *salien.sh* after the update is done.
+This will automatically run *salien-run.sh* once the update is done.
 ```bash
 sh update.sh
 ```
 
 ## Restart
 
-Just run *salien.sh*.
+Just run *salien-run.sh*.
 ```bash
 sh salien.sh
 ```
