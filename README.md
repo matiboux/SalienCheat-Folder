@@ -11,6 +11,7 @@ echo 'your_token' > token.txt
 2. Run *update.sh*.  
 This will automatically run *salien-run.sh* once the update is done.
 ```bash
+chmod +x update.sh
 sh update.sh
 ```
 
@@ -18,7 +19,7 @@ sh update.sh
 
 Just run *salien-run.sh*.
 ```bash
-sh salien.sh
+sh salien-run.sh
 ```
 
 ## Easy
