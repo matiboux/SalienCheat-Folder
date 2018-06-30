@@ -8,10 +8,14 @@ To update and run the [Salien Cheat](https://github.com/SteamDatabase/SalienChea
 echo 'your_token' > token.txt
 ```
 
-2. Run *update.sh*.  
-This will automatically run *salien-run.sh* once the update is done.
+2. If not already, make *update.sh* executable.
 ```bash
 chmod +x update.sh
+```
+
+3. Run *update.sh*.  
+This will automatically run *salien-run.sh* once the update is done.
+```bash
 sh update.sh
 ```
 
