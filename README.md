@@ -5,7 +5,7 @@ To update and run the Salien Cheat program (PHP)
 
 1. Don't forget to create a file with your token.
 ```bash
-echo 'Hello, world.' > token.txt
+echo 'your_token' > token.txt
 ```
 
 2. Run *update.sh*.  
