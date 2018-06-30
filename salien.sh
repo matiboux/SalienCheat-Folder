@@ -1,1 +1,0 @@
-php -d date.timezone=Europe/Paris -f SalienCheat-master/cheat.php
