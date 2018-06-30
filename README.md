@@ -1,5 +1,5 @@
 # SalienCheat-Folder
-To update and run the Salien Cheat program (PHP)
+To update and run the [Salien Cheat](https://github.com/SteamDatabase/SalienCheat) program (PHP)
 
 ## First Use and Update
 
